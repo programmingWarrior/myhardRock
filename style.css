@@ -44,3 +44,7 @@ body{
 #result #box{
 
 }
+.content-area #box{
+    text-align:center;
+    justify-content:center;
+}
